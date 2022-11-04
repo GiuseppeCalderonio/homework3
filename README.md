@@ -10,7 +10,7 @@ The skeleton code contains a fully functional code with local state maintained i
 Open the terminal window and type in `npm install`. This will install all the dependencies listed in the `package.json` file and will create a folder `node_modules` where all these dependencies will be installed. `npm run dev` will run a local development server and open a web browser window for you that's pointed at your application.
 
 ## Supabase code
-The supabase code can be found (here)[https://github.com/GiuseppeCalderonio/homework3/tree/master/src/database_starter], to run the project is necessary to run these queries in a supabase project.
+The supabase code can be found [here](https://github.com/GiuseppeCalderonio/homework3/tree/master/src/database_starter), to run the project is necessary to run these queries in a supabase project.
 
 ## .env file
 For security reasons, the .env file is not reported here, but the values that should be present to let the code work are:
