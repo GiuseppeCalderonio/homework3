@@ -9,10 +9,11 @@ The skeleton code contains a fully functional code with local state maintained i
 
 Open the terminal window and type in `npm install`. This will install all the dependencies listed in the `package.json` file and will create a folder `node_modules` where all these dependencies will be installed. `npm run dev` will run a local development server and open a web browser window for you that's pointed at your application.
 
-## What is Supabase ? 
+## Supabase code
+The supabase code can be found (here)[https://github.com/GiuseppeCalderonio/homework3/tree/master/src/database_starter], to run the project is necessary to run these queries in a supabase project.
 
-Supabase is hosted backend which provides plethora of ways to rapidly develop a web application. To know more about it take a look at [this](https://supabase.com/docs) link. 
-
-In your skeleton code, a supabaseClient code is present. You can use the client code diretly by modifying the .env file. Please add the appropriate URL and anon key related to your account. **While submiting your project though please make sure that you add .env file into the .gitignore**
-
+## .env file
+For security reasons, the .env file is not reported here, but the values that should be present to let the code work are:
+1. VITE_APP_SUPABASE_URL="<the url>"
+2. VITE_APP_SUPABASE_ANON_KEY="<the key>"
 
