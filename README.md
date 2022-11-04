@@ -14,6 +14,6 @@ The supabase code can be found [here](https://github.com/GiuseppeCalderonio/home
 
 ## .env file
 For security reasons, the .env file is not reported here, but the values that should be present to let the code work are:
-1. VITE_APP_SUPABASE_URL="<the url>"
-2. VITE_APP_SUPABASE_ANON_KEY="<the key>"
+1. VITE_APP_SUPABASE_URL="the url"
+2. VITE_APP_SUPABASE_ANON_KEY="the key"
 
